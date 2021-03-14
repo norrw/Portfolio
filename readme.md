@@ -1,1 +1,1 @@
-# My portfolio using React!
+# My portfolio using JavaScript, HTML, CSS and React!
