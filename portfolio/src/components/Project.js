@@ -36,7 +36,7 @@ const Project = () => {
                     href={project.link}
                     alt={project.title}
                     target='_blank'
-                    rel='noopener norefferer'
+                    rel='noopener noreferrer'
                   >
                     {project.title}
                   </a>

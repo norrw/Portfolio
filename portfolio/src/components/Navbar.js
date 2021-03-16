@@ -42,6 +42,7 @@ const Navbar = () => {
             url='https://github.com/norrw'
             className='mr-4'
             target='_blank'
+            rel='noreferrer'
             fgColor='#fff'
             style={{ height: 35, width: 35 }}
           />
