@@ -52,7 +52,7 @@ const SinglePost = () => {
                 <img
                   src={urlFor(singlePost.authorImage).url()}
                   alt={singlePost.name}
-                  className='w-10 h-10 rounded-full'
+                  className='w-20 h-20 rounded-full custom'
                 ></img>
               </div>
               <p className='cursive flex items-center pl-2 text-2xl'>
